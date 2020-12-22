@@ -1,9 +1,15 @@
-# Fabric Example Mod
+# Book Dupe
 
-## Setup
+## USAGE
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+step 1. get everything you want to dupe in your inventory
 
-## License
+step 2. log out of server
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+step 3. log in to same server
+
+step 4. put everything you want to dupe in a chest (not your ender chest it will also get rolled back)
+
+step 5. with a book and quill in your hand type .RR
+
+step 6. stonks
